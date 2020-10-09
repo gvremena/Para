@@ -11,7 +11,11 @@ eg. <br>
 `a.exe Examples\e1.txt 10`  <br>
 `a.exe Examples\e1.txt 10 true`
 <br/><br/>
-
+or randomly generate a matrix with
+`a.exe random MAT_SIZE CPU_THREADS [PRINT_RESULT]>` <br/>
+eg. <br>
+`a.exe random 5000 10` <br>
+`a.exe random 5 10 true` <br>
 <br/><br/>
 n = 5000: <br/>
 Time elapsed (GPU): 9.842497 <br/>
