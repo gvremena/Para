@@ -6,9 +6,11 @@ Cuda compilation tools, release 11.0, V11.0.221<br/>
 Compile with `nvcc example.cu`.
 <br/><br/>
 Run examples with <br>
-`a.exe <filepath> <CPU_THREADS> <print_result (default = false)>` <br/>
+`a.exe FILE_PATH CPU_THREADS [PRINT_RESULT]>` <br/>
 eg. <br>
 `a.exe Examples\e1.txt 10 false` 
+<br/><br/>
+
 <br/><br/>
 n = 5000: <br/>
 Time elapsed (GPU): 9.842497 <br/>
