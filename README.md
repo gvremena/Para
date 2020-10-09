@@ -6,13 +6,13 @@ Cuda compilation tools, release 11.0, V11.0.221<br/>
 Compile with `nvcc example.cu`.
 <br/><br/>
 Run examples with <br>
-`a.exe FILE_PATH CPU_THREADS [PRINT_RESULT]>` <br/>
+`a.exe FILE_PATH CPU_THREADS [PRINT_RESULT]` <br/>
 eg. <br>
 `a.exe Examples\e1.txt 10`  <br>
 `a.exe Examples\e1.txt 10 true`
 <br/><br/>
 or randomly generate a N x N distance matrix with <br>
-`a.exe random N CPU_THREADS [PRINT_RESULT]>` <br/>
+`a.exe random N CPU_THREADS [PRINT_RESULT]` <br/>
 eg. <br>
 `a.exe random 5000 10` <br>
 `a.exe random 5 10 true` <br>
