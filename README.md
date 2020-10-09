@@ -7,6 +7,8 @@ Compile with `nvcc example.cu`.
 <br/>
 Run exampels with <br>
 `a.exe <filepath> <CPU_THREADS> <print_result (default = false)>`
+eg. <br>
+`a.exe Examples\e1.txt 10 false` 
 <br/><br/>
 n = 5000: <br/>
 Time elapsed (GPU): 9.842497 <br/>
