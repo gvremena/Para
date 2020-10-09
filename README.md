@@ -4,9 +4,9 @@ Parallel Floyd-Warshall<br/>
 Cuda compilation tools, release 11.0, V11.0.221<br/>
 <br/>
 Compile with `nvcc example.cu`.
-<br/>
-Run exampels with <br>
-`a.exe <filepath> <CPU_THREADS> <print_result (default = false)>`
+<br/><br/>
+Run examples with <br>
+`a.exe <filepath> <CPU_THREADS> <print_result (default = false)>` <br/>
 eg. <br>
 `a.exe Examples\e1.txt 10 false` 
 <br/><br/>
