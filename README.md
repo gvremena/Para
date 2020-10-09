@@ -3,6 +3,8 @@
 Parallel Floyd-Warshall<br/>
 Cuda compilation tools, release 11.0, V11.0.221<br/>
 <br/><br/>
+Compile with `nvcc example.cu`
+<br/><br/>
 n = 5000: <br/>
 Time elapsed (GPU): 9.842497 <br/>
 Time elapsed (CPU, multithread): 90.444 <br/>
