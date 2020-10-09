@@ -8,7 +8,8 @@ Compile with `nvcc example.cu`.
 Run examples with <br>
 `a.exe FILE_PATH CPU_THREADS [PRINT_RESULT]>` <br/>
 eg. <br>
-`a.exe Examples\e1.txt 10 false` 
+`a.exe Examples\e1.txt 10`  <br>
+`a.exe Examples\e1.txt 10 true`
 <br/><br/>
 
 <br/><br/>
